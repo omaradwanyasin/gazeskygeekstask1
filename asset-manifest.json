@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gazeskygeekstask1/static/css/main.a0cf0c49.css",
+    "main.js": "/gazeskygeekstask1/static/js/main.f4157991.js",
+    "static/js/787.b755f208.chunk.js": "/gazeskygeekstask1/static/js/787.b755f208.chunk.js",
+    "index.html": "/gazeskygeekstask1/index.html",
+    "main.a0cf0c49.css.map": "/gazeskygeekstask1/static/css/main.a0cf0c49.css.map",
+    "main.f4157991.js.map": "/gazeskygeekstask1/static/js/main.f4157991.js.map",
+    "787.b755f208.chunk.js.map": "/gazeskygeekstask1/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0cf0c49.css",
+    "static/js/main.f4157991.js"
+  ]
+}
